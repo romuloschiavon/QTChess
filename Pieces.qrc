@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bispobranco.svg</file>
+        <file>images/bisponegro.svg</file>
+        <file>images/cavalobranco.svg</file>
+        <file>images/cavalonegro.svg</file>
+        <file>images/damabranca.svg</file>
+        <file>images/damanegra.svg</file>
+        <file>images/peaobranco.svg</file>
+        <file>images/peaonegro.svg</file>
+        <file>images/reibranco.svg</file>
+        <file>images/reinegro.svg</file>
+        <file>images/torrebranca.svg</file>
+        <file>images/torrenegra.svg</file>
+    </qresource>
+</RCC>
